@@ -28,7 +28,7 @@ Hear directly from one of the CAP team members about best practices as they appl
 
 ### Guidance for developing RAP applications in ABAP
 
-Date / time TBA
+Tuesday 12 October 09:00 UTC+1
 
 Hear directly from one of the pre-eminent developers in the RESTful ABAP Programming (RAP) space, about recommended techniques and approaches in the language that powers the core of SAP S/4HANA and many other platforms.
 
